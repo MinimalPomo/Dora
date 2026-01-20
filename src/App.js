@@ -15,10 +15,7 @@ const App = () => {
   const AD_URL = 'https://www.highperformanceformat.com/example-ad-link'; // ADSTERRA LINK HERE
 
   const videos = [
-    { id: '1', title: 'Morning in Tokyo', duration: '04:20', driveId: '1_vU0yJm8yZ1vWz_example1', author: 'Sato' },
-    { id: '2', title: 'The Coastal Run', duration: '02:15', driveId: '1_vU0yJm8yZ1vWz_example2', author: 'Elena' },
-    { id: '3', title: 'Architecture Study', duration: '10:00', driveId: '1_vU0yJm8yZ1vWz_example3', author: 'Marcus' },
-    { id: '4', title: 'Night Drive', duration: '05:45', driveId: '1_vU0yJm8yZ1vWz_example4', author: 'Kimi' },
+    { id: '1', title: 'Nobita New Dinosaur 2026 -Hindi 1080p', duration: '1:55:00', driveId: 'https://youtu.be/mMoquUvhr5E' },
   ];
 
   useEffect(() => {

@@ -19,7 +19,7 @@ const INITIAL_VIDEOS = [
     author: 'Doraemon Movie 40', 
     year: '2020',
     quality: '720P HD',
-    videoUrl: 'https://github.com/MinimalPomo/Dora/releases/download/Test/Screenrecording_20251222_224934.mp4', 
+    videoUrl: 'https://fkq3d76bipjwm2xv.public.blob.vercel-storage.com/%5BRAI%5D%20Doraemon%20Movie%2040%20-%20Nobita%27s%20New%20Dinosaur%202020%20-%20Hindi_720P%20HD.mp4', 
     thumbnail: 'https://images.unsplash.com/photo-1612441338146-05682122393f?q=80&w=1000',
     description: "Nobita encounters two twin dinosaurs and embarks on a journey to the Cretaceous period to help them find their kind."
   },
